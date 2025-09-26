@@ -116,6 +116,9 @@ Output:
 
 ![image alt](https://github.com/caydenrgarrett/titanic-ml-binary-classification/blob/0b36132c8f5de13de5cf41de206a75487abd48b1/titanic-ml-project/snsgraphs.png)
 
+![image alt](https://github.com/caydenrgarrett/titanic-ml-binary-classification/blob/666eca897b0344d86f94202344c5d9c8c8008308/snstitanicplt.png)
+
+
 
 ### 4. Feature Engineering
 - `FamilySize = SibSp + Parch`
