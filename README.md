@@ -1,5 +1,7 @@
 # 🚢 Titanic Survival Prediction (Machine Learning Project)
 
+![image alt](https://github.com/caydenrgarrett/titanic-ml-binary-classification/blob/4004b49997acc32cef578849a1fd893206ae87c7/titanic-ml-project/titanic.jpg)
+
 This project is an **end-to-end machine learning pipeline** built on the famous [Kaggle Titanic dataset](https://www.kaggle.com/c/titanic).  
 It follows the style of Chapter 2 from *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow* by Aurélien Géron.
 
